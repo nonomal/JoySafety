@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2023-2026 JD.com
+
 set -eox
 
 : "${SAFETY_MODEL_DIR:?环境变量 SAFETY_MODEL_DIR 未设置}"

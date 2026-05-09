@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2023-2026 JD.com
+
 from app.answer.base import AnswerSearchRequest
 from app.knowledge.base import KnowledgeResponseData
 

@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2023-2026 JD.com
+
 import importlib.util
 import sys
 from app.conf import Conf

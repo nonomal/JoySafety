@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2023-2026 JD.com
+
 DOCKER_BUILDKIT=1 docker buildx build \
 --platform linux/amd64,linux/arm64 \
 --secret id=mvnsettings,src="${MAVEN_SETTING_FILE:-/home/${UNAME}/maven/settings.xml}" \

@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2023-2026 JD.com
+
 PROMPT_PREFIX = """
 # 目标
 你是内容审核专家，具有丰富的内容审核经验。你需要根据提供的用户与大模型对话内容，判断其分类并给出理由，格式为{{"label": 0, "reason": "这是一段正常对话"}}，不要添加解释。

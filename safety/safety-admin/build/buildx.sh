@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2023-2026 JD.com
+
 #docker build --progress=plain -t safety-admin:0.0.1 ..
 DOCKER_BUILDKIT=1 docker buildx build \
 --platform linux/amd64,linux/arm64 \

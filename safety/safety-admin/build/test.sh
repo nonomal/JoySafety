@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2023-2026 JD.com
+
 # 指定配置文件启动
 docker run --rm \
   -p 8006:8006 \
