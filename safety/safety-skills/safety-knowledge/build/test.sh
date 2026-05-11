@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: Apache-2.0
-# Copyright (c) 2023-2026 JD.com
+# Copyright (c) 2023-2026 Beijing Jingdong Shangke Information Technology Co., Ltd.
 
 # 指定配置启动
 docker run --rm \
